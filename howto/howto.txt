@@ -1,0 +1,4 @@
+http://www.saurik.com/id/7
+https://www.reddit.com/r/jailbreak/comments/90gpli/tutorial_create_a_cydia_repository_using_github/
+dpkg-scanpackages -m debs . /dev/null >Packages
+bzip2 Packages
